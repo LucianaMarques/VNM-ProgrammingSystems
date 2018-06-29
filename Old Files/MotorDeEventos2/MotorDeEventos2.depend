@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1492274595 source:c:\users\luciana\desktop\7o semestre\motordeeventos2\evento.cpp
+	"Evento.h"
+
+1492274595 c:\users\luciana\desktop\7o semestre\motordeeventos2\evento.h
+	<iostream>
+
+1492616428 source:c:\users\luciana\desktop\7o semestre\motordeeventos2\listadeeventos.cpp
+	"ListaDeEventos.h"
+
+1492616428 c:\users\luciana\desktop\7o semestre\motordeeventos2\listadeeventos.h
+	<iostream>
+	"Evento.h"
+
+1492271652 source:c:\users\luciana\desktop\7o semestre\motordeeventos2\listadereacoes.cpp
+	<iostream>
+	"ListaDeReacoes.h"
+	"Reacao.h"
+
+1492616428 c:\users\luciana\desktop\7o semestre\motordeeventos2\listadereacoes.h
+	<iostream>
+	"Reacao.h"
+
+1492272330 c:\users\luciana\desktop\7o semestre\motordeeventos2\reacao.h
+
+1493599487 source:c:\users\luciana\desktop\7o semestre\motordeeventos2\main.cpp
+	<iostream>
+	"ListaDeEventos.h"
+	"Evento.h"
+	"ListaDeReacoes.h"
+	"Reacao.h"
+	"MVN.h"
+
+1492271584 source:c:\users\luciana\desktop\7o semestre\motordeeventos2\reacao.cpp
+	<iostream>
+	"Reacao.h"
+
+1493599478 source:c:\users\luciana\desktop\7o semestre\motordeeventos2\mvn.cpp
+	"MVN.h"
+
+1493599478 c:\users\luciana\desktop\7o semestre\motordeeventos2\mvn.h
+	<iostream>
+	"ListaDeEventos.h"
+	"Evento.h"
+	"Reacao.h"
+	"ListaDeReacoes.h"
+
+1493599478 source:c:\users\luciana\desktop\7o semestre\motordeeventos2\reacaomvn.cpp
+	"ReacaoMVN.h"
+
+1493599570 c:\users\luciana\desktop\7o semestre\motordeeventos2\reacaomvn.h
+	<iostream>
+
+1493603877 source:c:\users\luciana\desktop\7o semestre\motordeeventos2\listadereacoesmvn.cpp
+	<iostream>
+	"ListaDeReacoes.h"
+	"Reacao.h"
+

@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1499479256 source:d:\7o semestre\montador\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstring>
+	<string.h>
+	<string>
+	<vector>
+	<sstream>
+	<math.h>
+	"Evento.h"
+	"ListaLigada.h"
+	"Simbolo.h"
+	"MVN.h"
+	"Mneumonico.h"
+
+1497361836 d:\7o semestre\montador\evento.h
+	<iostream>
+
+1499476494 d:\7o semestre\montador\listaligada.h
+	<iostream>
+	"Mneumonico.h"
+	"Montador.h"
+	"Simbolo.h"
+	"Evento.h"
+	"SimboloLigador.h"
+
+1498358693 d:\7o semestre\montador\mneumonico.h
+	<iostream>
+
+1497361156 d:\7o semestre\montador\montador.h
+	<iostream>
+
+1498340923 d:\7o semestre\montador\simbolo.h
+	<iostream>
+
+1497538924 source:d:\7o semestre\montador\listaligada.cpp
+	"ListaLigada.h"
+
+1497538994 source:d:\7o semestre\montador\evento.cpp
+	"Evento.h"
+
+1498331308 source:d:\7o semestre\montador\simbolo.cpp
+	"Simbolo.h"
+
+1497279617 d:\7o semestre\montador\mvn.h
+	<iostream>
+
+1498334636 source:d:\7o semestre\montador\mneumonico.cpp
+	"Mneumonico.h"
+
+1493645892 source:d:\7o semestre\montador\mvn.cpp
+	"MVN.h"
+
+1499476494 d:\7o semestre\montador\simbololigador.h
+	<iostream>
+
+1499473869 source:d:\7o semestre\montador\simbololigador.cpp
+	"SimboloLigador.h"
+

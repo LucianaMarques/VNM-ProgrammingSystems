@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1493640362 source:c:\users\luciana\desktop\7o semestre\motordeeventos3\evento.cpp
+	<iostream>
+	"Evento.h"
+
+1493640375 c:\users\luciana\desktop\7o semestre\motordeeventos3\evento.h
+	<iostream>
+
+1494606378 source:c:\users\luciana\desktop\7o semestre\motordeeventos3\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdio>
+	"Evento.h"
+	"ListaDeEventos.h"
+	"MVN.h"
+	<stdio.h>
+	<conio.h>
+
+1493640536 source:c:\users\luciana\desktop\7o semestre\motordeeventos3\listadeeventos.cpp
+	"ListaDeEventos.h"
+	<iostream>
+
+1493641759 c:\users\luciana\desktop\7o semestre\motordeeventos3\listadeeventos.h
+	<iostream>
+	"Evento.h"
+
+1494606524 c:\users\luciana\desktop\7o semestre\motordeeventos3\mvn.h
+	<iostream>
+
+1493645892 source:c:\users\luciana\desktop\7o semestre\motordeeventos3\mvn.cpp
+	"MVN.h"
+
+1493640362 source:d:\7o semestre\motordeeventos3\evento.cpp
+	<iostream>
+	"Evento.h"
+
+1493640375 d:\7o semestre\motordeeventos3\evento.h
+	<iostream>
+
+1493640536 source:d:\7o semestre\motordeeventos3\listadeeventos.cpp
+	"ListaDeEventos.h"
+	<iostream>
+
+1493641759 d:\7o semestre\motordeeventos3\listadeeventos.h
+	<iostream>
+	"Evento.h"
+
+1493645892 source:d:\7o semestre\motordeeventos3\mvn.cpp
+	"MVN.h"
+
+1497279617 d:\7o semestre\motordeeventos3\mvn.h
+	<iostream>
+
+1499480264 source:d:\7o semestre\motordeeventos3\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdio>
+	<string>
+	<fstream>
+	<sstream>
+	<cstring>
+	"Evento.h"
+	"ListaDeEventos.h"
+	"MVN.h"
+	<stdio.h>
+	<conio.h>
+

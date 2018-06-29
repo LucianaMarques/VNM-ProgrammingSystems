@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1492212426 source:c:\users\luciana\desktop\7o semestre\motordeeventos\listadeeventos.cpp
+	"ListaDeEventos.h"
+	"Evento.h"
+
+1492212426 c:\users\luciana\desktop\7o semestre\motordeeventos\listadeeventos.h
+	<iostream>
+	"Evento.h"
+	"ListaDeReações.h"
+
+1492212535 c:\users\luciana\desktop\7o semestre\motordeeventos\evento.h
+	<iostream>
+	<string.h>
+	"Reacao.h"
+
+1491997053 c:\users\luciana\desktop\7o semestre\motordeeventos\reacao.h
+	<iostream>
+	"ListadeInstrucoes.h"
+
+1491774918 source:c:\users\luciana\desktop\7o semestre\motordeeventos\listadereações.cpp
+	"ListaDeReações.h"
+	"Reacao.h"
+
+1491774875 c:\users\luciana\desktop\7o semestre\motordeeventos\listadereações.h
+	<iostream>
+	"Reacao.h"
+
+1491997083 source:c:\users\luciana\desktop\7o semestre\motordeeventos\reacao.cpp
+	"Reacao.h"
+
+1491776610 source:c:\users\luciana\desktop\7o semestre\motordeeventos\evento.cpp
+	"Evento.h"
+
+1492212597 source:c:\users\luciana\desktop\7o semestre\motordeeventos\main.cpp
+	"Evento.h"
+	"ListaDeEventos.h"
+	"Reacao.h"
+	"ListaDeReações.h"
+	<iostream>
+	<string.h>
+
+1491998155 c:\users\luciana\desktop\7o semestre\motordeeventos\listadeinstrucoes.h
+	<iostream>
+	"Instrucao.h"
+
+1492210559 c:\users\luciana\desktop\7o semestre\motordeeventos\instrucao.h
+	<iostream>
+
+1491997255 source:c:\users\luciana\desktop\7o semestre\motordeeventos\instrucao.cpp
+	"Instrucao.h"
+
+1492210746 source:c:\users\luciana\desktop\7o semestre\motordeeventos\listadeinstrucoes.cpp
+	"ListadeInstrucoes.h"
+
